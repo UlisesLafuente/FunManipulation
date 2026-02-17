@@ -5,16 +5,15 @@ Now that you have the foundations, you will focus on transforming collections in
 ## Enunciate: 
 
 Exercise 1
-
 Create a list of strings with proper names. Write a method that returns a list of all strings starting with the letter 'A' (uppercase) and have exactly 3 letters. Print the result.
+
 Exercise 2
-
 Program a method that returns a chain separated by commas, based on a list ofIntegers. Each element must be preceded by letter “e” if the number is even, or by the letter “o” if the number is odd. For example, if the input list is (3, 55, 44), the output must be “o3, o55, e44”. Print the result.
+
 Exercise 3
-
 Create a Functional Interface that contains a method called operacio(). This method must return a float. Inject into the interface created by a lambda, the body of the method, so that the operation can be transformed with a sum, a subtraction, a multiplication and a division.
-Exercise 4
 
+Exercise 4
 Create a list that contains some strings of text and numbers.
 
 Sort them by:
